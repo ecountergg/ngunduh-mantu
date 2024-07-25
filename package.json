@@ -2,6 +2,7 @@
   "name": "next-app-template",
   "version": "0.0.1",
   "private": true,
+  "homepage": "ngunduh-mantu-j9wqixu57-ecounterggs-projects.vercel.app",
   "scripts": {
     "dev": "next dev --turbo --port=3003",
     "build": "next build",
